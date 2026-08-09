@@ -88,3 +88,5 @@ Para rodar os testes automáticos e verificar se a sua lógica está correta, ce
 
 ⭐ _Bons estudos! Comprometa-se com o processo e o resultado em produção virá de forma natural._  
 _— Criado com 💻 por Leo Gomes Developer_
+
+<!-- Modificado para conquista de badge no GitHub -->
